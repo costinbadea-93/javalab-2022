@@ -3,20 +3,20 @@ package citiredinconsola;
 import java.util.Scanner;
 
 /**
- *Necula Narcis(*) 3
- *Sasu Alexandru 3
- * Predescu Denisa 3
- * Tabacaru Andrei 3
- * Grosu Ilinca 2
- * Pascu Adrian 2
+ *Necula Narcis(*) 4
+ *Sasu Alexandru 4
+ * Predescu Denisa 5
+ * Tabacaru Andrei 4
+ * Grosu Ilinca 3
+ * Pascu Adrian 3
  * Kayed Amar
- * Dina Andrei(*) 3
- * Vasiliu Miruna 2
- * Ciurescu Andreea 3
- * Alex Serafim 3
- * Lazar Stefania
- * Oprea Ana 2
- * Ilie Tudor
+ * Dina Andrei(*) 5
+ * Vasiliu Miruna 3
+ * Ciurescu Andreea 5
+ * Alex Serafim 5
+ * Lazar Stefania 2
+ * Oprea Ana 4
+ * Ilie Tudor 2
  */
 public class CitireDinConsola {
     public static void main(String[] args) {
